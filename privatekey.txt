@@ -1,0 +1,9 @@
+# Private Keys File
+## Enter each key as a single number, without line breaks please!!
+## (any non-empty line or non-comment line in this file will cause a crash)
+## Public Key [this is m=p*q, p and q primes]
+951522650569991068942190804069
+# Private key [this is phi=(p-1)*(q-1)]
+951522650569989118017250529580
+# Auxiliary key [has to be coprime with m]
+888888877777777
